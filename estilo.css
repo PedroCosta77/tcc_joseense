@@ -1,0 +1,21 @@
+header{
+    color:pink;
+}
+footer{
+    color:purple;
+}
+body{
+    background-color:white;
+}
+form{
+    background-color: pink;
+}
+nav{
+    background-color: violet;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 11px;
+}
+header{
+    background-color: purple;
+}
